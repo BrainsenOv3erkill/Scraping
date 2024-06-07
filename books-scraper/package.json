@@ -1,0 +1,17 @@
+{
+  "name": "books-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "selenium-webdriver": "^4.21.0"
+  }
+}
